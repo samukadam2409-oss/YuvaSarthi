@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -34,3 +35,6 @@ See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rule
 =======
 # YuvaSarthi
 >>>>>>> 735a6969d35110f523c9c895e8b53b970e97ebbe
+=======
+# YuvaSarthi
+>>>>>>> origin/UI/UX-design
